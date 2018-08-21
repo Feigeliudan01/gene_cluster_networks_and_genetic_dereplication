@@ -1,0 +1,16 @@
+# path to blastp
+blastpPath=
+
+# path to formatdb
+formatDbPath=
+
+# path to makeblastdb
+makeblastdbPath=/none/
+
+# database login
+
+host=
+user=
+passwd=
+db=
+port=
