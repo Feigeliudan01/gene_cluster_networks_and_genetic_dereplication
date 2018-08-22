@@ -72,7 +72,7 @@ args=parser.parse_args()
 
 
 
-with open("configNew.txt") as c:
+with open("config.txt") as c:
 	config = readConfig(c.readlines())
 
 print("Queries to format smurf databases")
